@@ -228,7 +228,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": -2144,
-											"top": -1888,
+											"top": -1904,
 											"height": 13
 										},
 										{
@@ -239,7 +239,7 @@
 											},
 											"font": "Arial;13;1",
 											"left": 133,
-											"top": 15,
+											"top": 7,
 											"width": 1047,
 											"height": 13,
 											"text": "Casos de uso"
@@ -253,7 +253,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": -2144,
-											"top": -1888,
+											"top": -1904,
 											"width": 222.52978515625,
 											"height": 13,
 											"text": "(from Diagrama de Casos de Uso Tap)"
@@ -267,14 +267,13 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": -2144,
-											"top": -1888,
+											"top": -1904,
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 128,
-									"top": 8,
 									"width": 1057,
 									"height": 25,
 									"stereotypeLabel": {
@@ -293,7 +292,6 @@
 							],
 							"font": "Arial;13;0",
 							"left": 128,
-							"top": 8,
 							"width": 1057,
 							"height": 1289,
 							"nameCompartment": {
@@ -8543,8 +8541,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": -128,
-											"top": -240,
+											"left": -208,
+											"top": -192,
 											"height": 13
 										},
 										{
@@ -8554,11 +8552,11 @@
 												"$ref": "AAAAAAGERVubZDfR+88="
 											},
 											"font": "Arial;13;1",
-											"left": 588,
-											"top": 515.5,
-											"width": 100,
+											"left": 555.5,
+											"top": 539.5,
+											"width": 137,
 											"height": 13,
-											"text": "Cambiar turno"
+											"text": "Cambiar horario"
 										},
 										{
 											"_type": "LabelView",
@@ -8568,8 +8566,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": -128,
-											"top": -240,
+											"left": -208,
+											"top": -192,
 											"width": 222.52978515625,
 											"height": 13,
 											"text": "(from Diagrama de Casos de Uso Tap)"
@@ -8582,16 +8580,16 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": -128,
-											"top": -240,
+											"left": -208,
+											"top": -192,
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 583,
-									"top": 508.5,
-									"width": 110,
+									"left": 550.5,
+									"top": 532.5,
+									"width": 147,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGERVubZDfSUvY="
@@ -8617,8 +8615,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": -64,
-									"top": -120,
+									"left": -104,
+									"top": -96,
 									"width": 10,
 									"height": 10
 								},
@@ -8633,8 +8631,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": -64,
-									"top": -120,
+									"left": -104,
+									"top": -96,
 									"width": 10,
 									"height": 10
 								},
@@ -8649,8 +8647,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": -64,
-									"top": -120,
+									"left": -104,
+									"top": -96,
 									"width": 10,
 									"height": 10
 								},
@@ -8665,8 +8663,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": -64,
-									"top": -120,
+									"left": -104,
+									"top": -96,
 									"width": 10,
 									"height": 10
 								},
@@ -8681,17 +8679,17 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": -64,
-									"top": -120,
+									"left": -104,
+									"top": -96,
 									"width": 10,
 									"height": 10
 								}
 							],
 							"font": "Arial;13;0",
 							"containerChangeable": true,
-							"left": 560,
-							"top": 504,
-							"width": 156,
+							"left": 520,
+							"top": 528,
+							"width": 208,
 							"height": 35,
 							"nameCompartment": {
 								"$ref": "AAAAAAGERVubZDfR+88="
@@ -8735,8 +8733,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 782,
-									"top": 532,
+									"left": 777,
+									"top": 544,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -8755,8 +8753,8 @@
 										"$ref": "AAAAAAGERVxT2lUCfhA="
 									},
 									"font": "Arial;13;0",
-									"left": 743,
-									"top": 529,
+									"left": 738,
+									"top": 541,
 									"width": 53.49169921875,
 									"height": 13,
 									"alpha": -4.0179758497871445,
@@ -8778,8 +8776,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 775,
-									"top": 561,
+									"left": 772,
+									"top": 573,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -8797,7 +8795,7 @@
 								"$ref": "AAAAAAGERVubZDfQkKY="
 							},
 							"lineStyle": 1,
-							"points": "716:539;842:567",
+							"points": "728:559;823:572",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGERVxT2lUFibs="
@@ -8807,300 +8805,6 @@
 							},
 							"propertyLabel": {
 								"$ref": "AAAAAAGERVxT2lUHDeQ="
-							}
-						},
-						{
-							"_type": "UMLUseCaseView",
-							"_id": "AAAAAAGERWcrqcAcCFM=",
-							"_parent": {
-								"$ref": "AAAAAAGD3I/D/Am3qF8="
-							},
-							"model": {
-								"$ref": "AAAAAAGERWcrqcAa7wQ="
-							},
-							"subViews": [
-								{
-									"_type": "UMLNameCompartmentView",
-									"_id": "AAAAAAGERWcrqcAd+t8=",
-									"_parent": {
-										"$ref": "AAAAAAGERWcrqcAcCFM="
-									},
-									"model": {
-										"$ref": "AAAAAAGERWcrqcAa7wQ="
-									},
-									"subViews": [
-										{
-											"_type": "LabelView",
-											"_id": "AAAAAAGERWcrqcAeUoA=",
-											"_parent": {
-												"$ref": "AAAAAAGERWcrqcAd+t8="
-											},
-											"visible": false,
-											"font": "Arial;13;0",
-											"left": -128,
-											"top": -128,
-											"height": 13
-										},
-										{
-											"_type": "LabelView",
-											"_id": "AAAAAAGERWcrqcAfAdk=",
-											"_parent": {
-												"$ref": "AAAAAAGERWcrqcAd+t8="
-											},
-											"font": "Arial;13;1",
-											"left": 574.5,
-											"top": 587.5,
-											"width": 113,
-											"height": 13,
-											"text": "Registrar tecnico"
-										},
-										{
-											"_type": "LabelView",
-											"_id": "AAAAAAGERWcrqcAgbQU=",
-											"_parent": {
-												"$ref": "AAAAAAGERWcrqcAd+t8="
-											},
-											"visible": false,
-											"font": "Arial;13;0",
-											"left": -128,
-											"top": -128,
-											"width": 222.52978515625,
-											"height": 13,
-											"text": "(from Diagrama de Casos de Uso Tap)"
-										},
-										{
-											"_type": "LabelView",
-											"_id": "AAAAAAGERWcrqcAhlB0=",
-											"_parent": {
-												"$ref": "AAAAAAGERWcrqcAd+t8="
-											},
-											"visible": false,
-											"font": "Arial;13;0",
-											"left": -128,
-											"top": -128,
-											"height": 13,
-											"horizontalAlignment": 1
-										}
-									],
-									"font": "Arial;13;0",
-									"left": 569.5,
-									"top": 580.5,
-									"width": 123,
-									"height": 25,
-									"stereotypeLabel": {
-										"$ref": "AAAAAAGERWcrqcAeUoA="
-									},
-									"nameLabel": {
-										"$ref": "AAAAAAGERWcrqcAfAdk="
-									},
-									"namespaceLabel": {
-										"$ref": "AAAAAAGERWcrqcAgbQU="
-									},
-									"propertyLabel": {
-										"$ref": "AAAAAAGERWcrqcAhlB0="
-									}
-								},
-								{
-									"_type": "UMLAttributeCompartmentView",
-									"_id": "AAAAAAGERWcrqcAiQos=",
-									"_parent": {
-										"$ref": "AAAAAAGERWcrqcAcCFM="
-									},
-									"model": {
-										"$ref": "AAAAAAGERWcrqcAa7wQ="
-									},
-									"visible": false,
-									"font": "Arial;13;0",
-									"left": -64,
-									"top": -64,
-									"width": 10,
-									"height": 10
-								},
-								{
-									"_type": "UMLOperationCompartmentView",
-									"_id": "AAAAAAGERWcrqcAjFcg=",
-									"_parent": {
-										"$ref": "AAAAAAGERWcrqcAcCFM="
-									},
-									"model": {
-										"$ref": "AAAAAAGERWcrqcAa7wQ="
-									},
-									"visible": false,
-									"font": "Arial;13;0",
-									"left": -64,
-									"top": -64,
-									"width": 10,
-									"height": 10
-								},
-								{
-									"_type": "UMLReceptionCompartmentView",
-									"_id": "AAAAAAGERWcrqcAkrXQ=",
-									"_parent": {
-										"$ref": "AAAAAAGERWcrqcAcCFM="
-									},
-									"model": {
-										"$ref": "AAAAAAGERWcrqcAa7wQ="
-									},
-									"visible": false,
-									"font": "Arial;13;0",
-									"left": -64,
-									"top": -64,
-									"width": 10,
-									"height": 10
-								},
-								{
-									"_type": "UMLTemplateParameterCompartmentView",
-									"_id": "AAAAAAGERWcrqcAlR9Y=",
-									"_parent": {
-										"$ref": "AAAAAAGERWcrqcAcCFM="
-									},
-									"model": {
-										"$ref": "AAAAAAGERWcrqcAa7wQ="
-									},
-									"visible": false,
-									"font": "Arial;13;0",
-									"left": -64,
-									"top": -64,
-									"width": 10,
-									"height": 10
-								},
-								{
-									"_type": "UMLExtensionPointCompartmentView",
-									"_id": "AAAAAAGERWcrqcAmORg=",
-									"_parent": {
-										"$ref": "AAAAAAGERWcrqcAcCFM="
-									},
-									"model": {
-										"$ref": "AAAAAAGERWcrqcAa7wQ="
-									},
-									"visible": false,
-									"font": "Arial;13;0",
-									"left": -64,
-									"top": -64,
-									"width": 10,
-									"height": 10
-								}
-							],
-							"font": "Arial;13;0",
-							"containerChangeable": true,
-							"left": 544,
-							"top": 576,
-							"width": 174,
-							"height": 35,
-							"nameCompartment": {
-								"$ref": "AAAAAAGERWcrqcAd+t8="
-							},
-							"suppressAttributes": true,
-							"suppressOperations": true,
-							"attributeCompartment": {
-								"$ref": "AAAAAAGERWcrqcAiQos="
-							},
-							"operationCompartment": {
-								"$ref": "AAAAAAGERWcrqcAjFcg="
-							},
-							"receptionCompartment": {
-								"$ref": "AAAAAAGERWcrqcAkrXQ="
-							},
-							"templateParameterCompartment": {
-								"$ref": "AAAAAAGERWcrqcAlR9Y="
-							},
-							"extensionPointCompartment": {
-								"$ref": "AAAAAAGERWcrqcAmORg="
-							}
-						},
-						{
-							"_type": "UMLExtendView",
-							"_id": "AAAAAAGERWfFo9MrVFY=",
-							"_parent": {
-								"$ref": "AAAAAAGD3I/D/Am3qF8="
-							},
-							"model": {
-								"$ref": "AAAAAAGERWfFotMpmLo="
-							},
-							"subViews": [
-								{
-									"_type": "EdgeLabelView",
-									"_id": "AAAAAAGERWfFo9MsBvM=",
-									"_parent": {
-										"$ref": "AAAAAAGERWfFo9MrVFY="
-									},
-									"model": {
-										"$ref": "AAAAAAGERWfFotMpmLo="
-									},
-									"visible": false,
-									"font": "Arial;13;0",
-									"left": 769,
-									"top": 568,
-									"height": 13,
-									"alpha": 1.5707963267948966,
-									"distance": 15,
-									"hostEdge": {
-										"$ref": "AAAAAAGERWfFo9MrVFY="
-									},
-									"edgePosition": 1
-								},
-								{
-									"_type": "EdgeLabelView",
-									"_id": "AAAAAAGERWfFo9MtaHI=",
-									"_parent": {
-										"$ref": "AAAAAAGERWfFo9MrVFY="
-									},
-									"model": {
-										"$ref": "AAAAAAGERWfFotMpmLo="
-									},
-									"font": "Arial;13;0",
-									"left": 776,
-									"top": 631,
-									"width": 53.49169921875,
-									"height": 13,
-									"alpha": -1.0111376517744637,
-									"distance": 58.52349955359813,
-									"hostEdge": {
-										"$ref": "AAAAAAGERWfFo9MrVFY="
-									},
-									"edgePosition": 1,
-									"text": "«extend»"
-								},
-								{
-									"_type": "EdgeLabelView",
-									"_id": "AAAAAAGERWfFo9Mul0M=",
-									"_parent": {
-										"$ref": "AAAAAAGERWfFo9MrVFY="
-									},
-									"model": {
-										"$ref": "AAAAAAGERWfFotMpmLo="
-									},
-									"visible": false,
-									"font": "Arial;13;0",
-									"left": 770,
-									"top": 597,
-									"height": 13,
-									"alpha": -1.5707963267948966,
-									"distance": 15,
-									"hostEdge": {
-										"$ref": "AAAAAAGERWfFo9MrVFY="
-									},
-									"edgePosition": 1
-								}
-							],
-							"font": "Arial;13;0",
-							"head": {
-								"$ref": "AAAAAAGD4cyhypuJRaA="
-							},
-							"tail": {
-								"$ref": "AAAAAAGERWcrqcAcCFM="
-							},
-							"lineStyle": 1,
-							"points": "718:591;823:588",
-							"showVisibility": true,
-							"nameLabel": {
-								"$ref": "AAAAAAGERWfFo9MsBvM="
-							},
-							"stereotypeLabel": {
-								"$ref": "AAAAAAGERWfFo9MtaHI="
-							},
-							"propertyLabel": {
-								"$ref": "AAAAAAGERWfFo9Mul0M="
 							}
 						},
 						{
@@ -9343,12 +9047,12 @@
 										"$ref": "AAAAAAGER+E2dz6762M="
 									},
 									"font": "Arial;13;0",
-									"left": 742,
-									"top": 590,
+									"left": 720,
+									"top": 607,
 									"width": 53.49169921875,
 									"height": 13,
-									"alpha": 1.5707963267948966,
-									"distance": 30,
+									"alpha": -3.7614037342786353,
+									"distance": 31.953090617340916,
 									"hostEdge": {
 										"$ref": "AAAAAAGER+E2eD69kF8="
 									},
@@ -10552,7 +10256,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGD3I/D/Am20qM="
 					},
-					"name": "Cambiar turno",
+					"name": "Cambiar horario",
 					"ownedElements": [
 						{
 							"_type": "UMLExtend",
